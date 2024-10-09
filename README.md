@@ -37,6 +37,11 @@ git clone https://github.com/techchipnet/CamPhish
 cd CamPhish
 bash camphish.sh
 ```
+FOR OPENING PNG PHOTOS
+```
+ls
+termux-open png
+```
 
 ## Change Log:
 
